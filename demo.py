@@ -37,3 +37,4 @@ middleName = "Andhika"
 print(len(middleName))
 print(middleName[0:1])
 print(middleName[6:7])
+print(middleName[0:3])
